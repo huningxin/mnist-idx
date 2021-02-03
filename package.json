@@ -1,0 +1,14 @@
+{
+  "name": "mnist-idx",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "author": "ningxin.hu@intel.com",
+  "license": "Apache 2.0",
+  "dependencies": {
+    "commander": "^7.0.0",
+    "idx-data": "^1.1.0",
+    "mnist": "^1.1.0",
+    "tslib": "^2.1.0"
+  }
+}
